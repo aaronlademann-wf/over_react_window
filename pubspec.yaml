@@ -10,6 +10,21 @@ environment:
 dependencies:
   over_react: ^2.5.2
   react: ^4.9.0
+  web_skin:
+    hosted:
+      name: web_skin
+      url: https://pub.workiva.org
+    version: ^1.64.0
+  web_skin_dart:
+    hosted:
+      name: web_skin_dart
+      url: https://pub.workiva.org
+    version: ^2.33.0
+  w_virtual_components:
+    hosted:
+      name: w_virtual_components
+      url: https://pub.workiva.org
+    version: any
 
 dev_dependencies:
   abide: ^1.6.4

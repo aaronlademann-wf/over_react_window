@@ -10,6 +10,8 @@ targets:
       build_web_compilers|entrypoint:
         generate_for:
           - web/main.dart
+          - web/wvc.dart
+          - web/react_virtualized.dart
         release_options:
           compiler: dart2js
           dart2js_args:
